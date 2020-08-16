@@ -26,7 +26,7 @@
   .navbar a {
     color: rgb(199, 197, 197);
     margin: 28px;
-    font-size: 16px;
+    font-size: 14px;
     text-decoration: none;
   }
   .navbar a:hover {
@@ -51,6 +51,7 @@
     height: 15vh;
       background-color:#0071E3;
       color: white;
+      padding-bottom: 13px;
   }
     
   .white {
@@ -85,7 +86,8 @@
     line-height: 45px;
     text-align: center;
     align-items: center;
-    margin-top: 15px;
+    margin-top: 5px;
+    padding-top: 15px;
     
   
 }
@@ -103,7 +105,7 @@
     color: grey;
 }
 .container   a {
-    margin: 15px;
+    margin: 5px;
     color: #2997FF;
     text-decoration: none;
     font-size: 20px;
@@ -222,7 +224,7 @@
    }
    .top a {
     color:  #2997FF;
-    font-size: 20px;
+    font-size: 16px;
     text-decoration: none;
     padding: 10px;
     z-index: 1;
